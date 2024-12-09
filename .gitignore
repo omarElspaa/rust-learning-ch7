@@ -1,1 +1,5 @@
-/target
+my_project/target
+my_project/Cargo.lock
+
+restaurant/target
+restaurant/Cargo.lock
